@@ -1,0 +1,1 @@
+A chatbot application based on NapCat as a bot adapter and LLaMA-Factory as an LLM backend. The LLM is fine-tuned by the cleaned dialogs between my friends and me, on the DeepSeek distilled model.
